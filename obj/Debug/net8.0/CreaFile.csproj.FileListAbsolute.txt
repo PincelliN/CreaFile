@@ -1,0 +1,15 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\bin\Debug\net8.0\CreaFile.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\bin\Debug\net8.0\CreaFile.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\bin\Debug\net8.0\CreaFile.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\bin\Debug\net8.0\CreaFile.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\bin\Debug\net8.0\CreaFile.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.sourcelink.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\refint\CreaFile.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\CreaFile.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\CreaFile\obj\Debug\net8.0\ref\CreaFile.dll
