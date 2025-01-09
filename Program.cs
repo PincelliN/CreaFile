@@ -9,3 +9,10 @@ newFile.Close();
 //elimino la variabile newFile per risparmiare risorse
 newFile.Dispose();
 
+
+// forma sintetica
+string path2 = "MyFile2.txt";
+using (var newFile2 = File.CreateText(path2))
+{
+    newFile2.WriteLine("Lorem 2");
+}
